@@ -28,9 +28,11 @@ MY_EMAIL
 MY_PASSWORD
 If using Gmail:
 You must create an App Password because normal account passwords do not work with SMTP.
+
+
 Requirements
-Install dependencies with:
-pip install requirements.txt
+
+
 Also requires standard Python libraries:
 smtplib
 datetime
